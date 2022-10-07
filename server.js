@@ -24,7 +24,7 @@ app.use(errorMiddleware)
 
 // Serve static assets if in production
 
-const uri = 'mongodb+srv://test:test@cluster0.uekb3.mongodb.net/?retryWrites=true&w=majority'
+const uri = process.env.ATLAS_URI
 
 const start = async () => {
     try {
