@@ -1,0 +1,1179 @@
+[{
+  "_id": {
+    "$oid": "63258c4cbda4302fb8602baa"
+  },
+  "name": "broccoli",
+  "description": "It is eaten either raw or cooked. Broccoli is a particularly rich source of vitamin C and vitamin K.",
+  "price": 1.49,
+  "oldprice": 2.65,
+  "img": "broccoli",
+  "date": {
+    "$date": {
+      "$numberLong": "1663405132318"
+    }
+  },
+  "quantity": 185,
+  "category": "vegetables",
+  "rating": 4.4,
+  "company": "Safira",
+  "indexes": "deal of the week",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1663405132321"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1663405132321"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "632869aac80c4d8f9d8eeec7"
+  },
+  "name": "beetroot",
+  "description": "Usually the deep purple roots of beets are eaten boiled, roasted, or raw, and either alone or combined with any salad vegetable. A large proportion of the commercial production is processed into boiled and sterilized beets or into pickles.",
+  "price": 3.79,
+  "img": "beetroot",
+  "date": {
+    "$date": {
+      "$numberLong": "1663592874080"
+    }
+  },
+  "quantity": 172,
+  "category": "vegetables",
+  "rating": 4.7,
+  "company": "China",
+  "indexes": "mostview products",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1663592874097"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1663592874097"
+    }
+  },
+  "__v": 0,
+  "oldprice": null
+},{
+  "_id": {
+    "$oid": "63286aebc80c4d8f9d8eeec9"
+  },
+  "name": "bianco zucchini",
+  "description": "‘Bianco’ means white in Italian and Trieste is the Italian city the squash became popular in. They also tend to be slightly more swollen towards the bottom, giving you ample space to make a stuffed zucchini treat.",
+  "price": 1.89,
+  "img": "bianco-zucchini",
+  "date": {
+    "$date": {
+      "$numberLong": "1663593195147"
+    }
+  },
+  "quantity": 131,
+  "category": "vegetables",
+  "rating": 4.2,
+  "company": "Safira",
+  "indexes": "mostview products",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1663593195150"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1663593195150"
+    }
+  },
+  "__v": 0,
+  "oldprice": 2.25
+},{
+  "_id": {
+    "$oid": "632aad48c80c4d8f9d8eeef2"
+  },
+  "name": "antonella tomatoes",
+  "description": "They are quickly blanched in hot water, peeled, stuffed into jars, covered, and boiled to seal the jars.",
+  "price": 3.19,
+  "img": "antonella-tomatoes",
+  "date": {
+    "$date": {
+      "$numberLong": "1663741256758"
+    }
+  },
+  "quantity": 83,
+  "category": "vegetables",
+  "rating": 3.8,
+  "company": "Mikotesa Farm",
+  "indexes": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1663741256760"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1663741256760"
+    }
+  },
+  "__v": 0,
+  "oldprice": 3.5
+},{
+  "_id": {
+    "$oid": "632aaddac80c4d8f9d8eeefa"
+  },
+  "name": "black beauty zucchini",
+  "description": "This zucchini is called black beauty because of its brilliant dark green skin that almost looks black in color. These are long and slender squashes that can be enjoyed through the season.",
+  "price": 1.45,
+  "img": "black-beauty-zucchini",
+  "date": {
+    "$date": {
+      "$numberLong": "1663741402349"
+    }
+  },
+  "quantity": 52,
+  "category": "vegetables",
+  "rating": 4.6,
+  "company": "Safira",
+  "indexes": "mostview products",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1663741402351"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1663741402351"
+    }
+  },
+  "__v": 0,
+  "oldprice": 1.65
+},{
+  "_id": {
+    "$oid": "632aae4ac80c4d8f9d8eeefc"
+  },
+  "name": "black prince",
+  "description": "This early to middle season dessert apple is deep red, with the red colouring extending, in patches, deep into the flesh of the apple.",
+  "price": 1.59,
+  "img": "black-prince",
+  "date": {
+    "$date": {
+      "$numberLong": "1663741514367"
+    }
+  },
+  "quantity": 66,
+  "category": "fruits",
+  "rating": 4.7,
+  "company": "Mikotesa Farm",
+  "indexes": "mostview products",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1663741514369"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1663741514369"
+    }
+  },
+  "__v": 0,
+  "oldprice": 1.79
+},{
+  "_id": {
+    "$oid": "632af0b77faf0e0036294707"
+  },
+  "name": "olive",
+  "description": "The olive's fruit, also called an 'olive', is of major agricultural importance in the Mediterranean region as the source of olive oil.",
+  "price": 0.89,
+  "img": "olive",
+  "date": {
+    "$date": {
+      "$numberLong": "1663758519966"
+    }
+  },
+  "quantity": 622,
+  "category": "vegetables",
+  "rating": 4.9,
+  "company": "China",
+  "indexes": "mostview products",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1663758519972"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1663758519972"
+    }
+  },
+  "__v": 0,
+  "oldprice": null
+},{
+  "_id": {
+    "$oid": "633a3346998436e7b799f45f"
+  },
+  "name": "blood limes",
+  "description": "Blood limes are hybrids that were developed in Australia. The fruit is blood-red in color, and it is much smaller than other types of limes. It is a cross between the red finger lime and the Ellendale mandarin, the latter being a mandarin-orange hybrid. It also has a somewhat sweet taste.",
+  "price": 1.25,
+  "img": "blood-limes",
+  "date": {
+    "$date": {
+      "$numberLong": "1664758598385"
+    }
+  },
+  "quantity": 206,
+  "category": "fruits",
+  "rating": 4.1,
+  "company": "Safira",
+  "indexes": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664758598404"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664758598404"
+    }
+  },
+  "__v": 0,
+  "oldprice": "1.49"
+},{
+  "_id": {
+    "$oid": "633a33bb998436e7b799f461"
+  },
+  "name": "butterhead lettuce",
+  "description": "Lettuce is most often used for salads, although it is also seen in other kinds of food, such as soups, sandwiches and wraps; it can also be grilled.",
+  "price": 0.79,
+  "img": "butterhead-lettuce",
+  "date": {
+    "$date": {
+      "$numberLong": "1664758715603"
+    }
+  },
+  "quantity": 109,
+  "category": "salads",
+  "rating": 4.3,
+  "company": "Safira",
+  "indexes": "mostview products",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664758715606"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664758715606"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "633af905998436e7b799f973"
+  },
+  "name": "cherry tomato",
+  "description": "The cherry tomato is a type of small round tomato believed to be an intermediate genetic admixture between wild currant-type tomatoes and domesticated garden tomatoes. Cherry tomatoes range in size from a thumbtip up to the size of a golf ball, and can range from spherical to slightly oblong in shape. Although usually red, other colours such as yellow, green, and black also exist.",
+  "price": 0.89,
+  "img": "cherry-tomato",
+  "date": {
+    "$date": {
+      "$numberLong": "1664809221466"
+    }
+  },
+  "quantity": 927,
+  "category": "vegetables",
+  "rating": 5,
+  "company": "Safira",
+  "indexes": "mostview products",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664809221470"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664809221470"
+    }
+  },
+  "__v": 0,
+  "oldprice": "0.99"
+},{
+  "_id": {
+    "$oid": "633afc6f052eca0a556a823f"
+  },
+  "name": "dent corn",
+  "description": "Dent corn, more popularly called field corn and sometimes also known as yellow dent, is named after the dent or dimple formation at the top of each kernel when the corn dries out. It doesn’t matter how much salt, sugar, or butter you spread over a freshly-picked dent corn cob—it will taste bland!",
+  "price": 1.09,
+  "img": "dent-corn",
+  "date": {
+    "$date": {
+      "$numberLong": "1664810095799"
+    }
+  },
+  "quantity": 118,
+  "category": "cereals",
+  "rating": 4.7,
+  "company": "Safira",
+  "indexes": "mostview products",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664810095802"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664810095802"
+    }
+  },
+  "__v": 0,
+  "oldprice": "1.15"
+},{
+  "_id": {
+    "$oid": "633afcea052eca0a556a8241"
+  },
+  "name": "european cucumber",
+  "description": "European cucumber is one of the most common types of this vegetable. They are nearly seedless and have thin skins with no spines. They can also grow up to two feet in length. Their taste is also a lot milder than other types of cucumbers, which is one reason for their popularity.",
+  "price": 0.99,
+  "img": "european-cucumber",
+  "date": {
+    "$date": {
+      "$numberLong": "1664810218265"
+    }
+  },
+  "quantity": 361,
+  "category": "vegetables",
+  "rating": 4.6,
+  "company": "Mikotesa Farm",
+  "indexes": "mostview products",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664810218268"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664810218268"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "633afd34052eca0a556a8243"
+  },
+  "name": "fantasia yellow nectarine",
+  "description": "A yellow fleshed nectarine, freestone that ripens in February. Good flavour and a firm flesh.",
+  "price": 1.5,
+  "img": "fantasia-yellow-nectarine",
+  "date": {
+    "$date": {
+      "$numberLong": "1664810292871"
+    }
+  },
+  "quantity": 84,
+  "category": "fruits",
+  "rating": 4.8,
+  "company": "Safira",
+  "indexes": "mostview products",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664810292874"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664810292874"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "633afd77052eca0a556a8245"
+  },
+  "name": "flint corn",
+  "description": "Its cobs come in a wide range of colors, with each kernel having different pigmentations. This type of corn is grown mainly in Central and South America, with the same uses as dent corn and popcorn.",
+  "price": 1.65,
+  "img": "flint-corn",
+  "date": {
+    "$date": {
+      "$numberLong": "1664810359406"
+    }
+  },
+  "quantity": 87,
+  "category": "fruits",
+  "rating": 4.8,
+  "company": "Safira",
+  "indexes": "mostview products",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664810359409"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664810359409"
+    }
+  },
+  "__v": 0,
+  "oldprice": "2.05"
+},{
+  "_id": {
+    "$oid": "633afe14052eca0a556a8247"
+  },
+  "name": "frozen fresh garden peas",
+  "description": "Green peas should not be boiled! You can have sweet, creamy peas in less than 10 minutes. Try them tonight!",
+  "price": 2.55,
+  "img": "frozen-fresh-garden-peas",
+  "date": {
+    "$date": {
+      "$numberLong": "1664810516896"
+    }
+  },
+  "quantity": 63,
+  "category": "frozen",
+  "rating": 4.2,
+  "company": "China",
+  "indexes": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664810516898"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664810516898"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "633aff80052eca0a556a8380"
+  },
+  "name": "golden apple",
+  "description": "Golden Delicious apples are one of the most popular and easily available types of apples in the world. These beauties can be found everywhere from supermarkets to specialty orchards.",
+  "price": 1.05,
+  "img": "golden-apple",
+  "date": {
+    "$date": {
+      "$numberLong": "1664810880627"
+    }
+  },
+  "quantity": 176,
+  "category": "fruits",
+  "rating": 4.8,
+  "company": "Safira",
+  "indexes": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664810880629"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664810880629"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "633afff6052eca0a556a8382"
+  },
+  "name": "granny smith apple",
+  "description": "The tree is thought to be a hybrid of Malus sylvestris, the European wild apple, with the domesticated apple Malus domestica as the polleniser. The fruit is hard, firm and with a light green skin and crisp, juicy flesh.",
+  "price": 1.15,
+  "img": "granny-smith-apple",
+  "date": {
+    "$date": {
+      "$numberLong": "1664810998342"
+    }
+  },
+  "quantity": 161,
+  "category": "fruits",
+  "rating": 4.5,
+  "company": "Safira",
+  "indexes": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664810998344"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664810998344"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "633b01e1052eca0a556a8388"
+  },
+  "name": "green giant canned",
+  "description": "After initial cooking, the corn is filled into metal cans by filling machines. Of course, it must be said that the cans are cleaned by steam pressure before filling.",
+  "price": 2.25,
+  "img": "green-giant-canned",
+  "date": {
+    "$date": {
+      "$numberLong": "1664811489640"
+    }
+  },
+  "quantity": 182,
+  "category": "cereals",
+  "rating": 4.7,
+  "company": "China",
+  "indexes": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664811489641"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664811489641"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "633b02b2052eca0a556a838a"
+  },
+  "name": "green split peas",
+  "description": "Split peas are an agricultural or culinary preparation consisting of the dried, peeled and split seeds of Pisum sativum, the pea.",
+  "price": 1.89,
+  "img": "green-split-peas",
+  "date": {
+    "$date": {
+      "$numberLong": "1664811698437"
+    }
+  },
+  "quantity": 113,
+  "category": "vegetables",
+  "rating": 3.9,
+  "company": "Safira",
+  "indexes": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664811698438"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664811698438"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "633b0b1f8b5440523e552a23"
+  },
+  "name": "green zucchini",
+  "description": "Green zucchini serves as a great source of vitamin C and manganese, making it the perfect addition to your meals in a variety of ways.",
+  "price": 1.25,
+  "img": "green-zucchini",
+  "date": {
+    "$date": {
+      "$numberLong": "1664813855997"
+    }
+  },
+  "quantity": 221,
+  "category": "vegetables",
+  "rating": 4.2,
+  "company": "Safira",
+  "indexes": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664813856008"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664813856008"
+    }
+  },
+  "__v": 0,
+  "oldprice": "1.45"
+},{
+  "_id": {
+    "$oid": "633b0b4d8b5440523e552a25"
+  },
+  "name": "korean cucumber",
+  "description": "Korean cucumbers are long and slender with small spines and thin skin. If you eat them raw, they are crunchy and sweet without the bitter flavor of some other cucumbers.",
+  "price": 1.09,
+  "img": "korean-cucumber",
+  "date": {
+    "$date": {
+      "$numberLong": "1664813901591"
+    }
+  },
+  "quantity": 126,
+  "category": "vegetables",
+  "rating": 4.5,
+  "company": "China",
+  "indexes": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664813901594"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664813901594"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "633dbd3a8b5440523e553043"
+  },
+  "name": "leaf lettuce",
+  "description": "Lettuce is most often used for salads, although it is also seen in other kinds of food, such as soups, sandwiches and wraps; it can also be grilled.",
+  "price": 1.6,
+  "img": "leaf-lettuce",
+  "date": {
+    "$date": {
+      "$numberLong": "1664990522500"
+    }
+  },
+  "quantity": 69,
+  "category": "salads",
+  "rating": 4.5,
+  "company": "Safira",
+  "indexes": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664990522502"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664990522502"
+    }
+  },
+  "__v": 0,
+  "oldprice": "1.75"
+},{
+  "_id": {
+    "$oid": "633dbd658b5440523e553045"
+  },
+  "name": "lemon cucumber",
+  "description": "They have a mild taste and very thin skins, which is why a lot of consumers eat them with the skin on. When a recipe calls for any type of cucumber, you can use the lemon cucumber in it because it is a very tasty, very versatile vegetable.",
+  "price": 1.45,
+  "img": "lemon-cucumber",
+  "date": {
+    "$date": {
+      "$numberLong": "1664990565002"
+    }
+  },
+  "quantity": 42,
+  "category": "vegetables",
+  "rating": 4.2,
+  "company": "China",
+  "indexes": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664990565003"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664990565003"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "633dbd9c8b5440523e553047"
+  },
+  "name": "lime",
+  "description": "Limes are a rich source of vitamin C, are sour, and are often used to accent the flavours of foods and beverages.",
+  "price": 1.89,
+  "img": "lime",
+  "date": {
+    "$date": {
+      "$numberLong": "1664990620276"
+    }
+  },
+  "quantity": 29,
+  "category": "fruits",
+  "rating": 4.6,
+  "company": "Safira",
+  "indexes": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664990620279"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664990620279"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "633dbdef8b5440523e553049"
+  },
+  "name": "mcintosh apple",
+  "description": "Golden Delicious apples are one of the most popular and easily available types of apples in the world. These beauties can be found everywhere from supermarkets to specialty orchards.",
+  "price": 1.25,
+  "img": "mcintosh-apple",
+  "date": {
+    "$date": {
+      "$numberLong": "1664990703322"
+    }
+  },
+  "quantity": 194,
+  "category": "fruits",
+  "rating": 4.6,
+  "company": "Mikotesa Farm",
+  "indexes": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664990703323"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664990703323"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "633dbe178b5440523e55304b"
+  },
+  "name": "mission olive",
+  "description": "Mission olives are harvested for table use from late October through November; for oil production",
+  "price": 0.65,
+  "img": "mission-olive",
+  "date": {
+    "$date": {
+      "$numberLong": "1664990743340"
+    }
+  },
+  "quantity": 361,
+  "category": "vegetables",
+  "rating": 4.1,
+  "company": "Mikotesa Farm",
+  "indexes": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664990743341"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664990743341"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "633dbe978b5440523e55304d"
+  },
+  "name": "north cabbage",
+  "description": "Under conditions of long sunny days, such as those found at high northern latitudes in summer, cabbages can grow quite large.",
+  "price": 1.25,
+  "img": "north-cabbage",
+  "date": {
+    "$date": {
+      "$numberLong": "1664990871980"
+    }
+  },
+  "quantity": 149,
+  "category": "salads",
+  "rating": 4.6,
+  "company": "Mikotesa Farm",
+  "indexes": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664990871981"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664990871981"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "633dbed28b5440523e55304f"
+  },
+  "name": "purple passion fruit",
+  "description": "Purple passion fruit is very fragrant and it produces tropical and floral scent. The flesh or the pulp of this fruit variety has small and edible black seeds that are surrounded with a juicy and succulent yellow to orange sack.",
+  "price": 3.45,
+  "img": "purple-passion-fruit",
+  "date": {
+    "$date": {
+      "$numberLong": "1664990930240"
+    }
+  },
+  "quantity": 56,
+  "category": "fruits",
+  "rating": 4.3,
+  "company": "Mikotesa Farm",
+  "indexes": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664990930241"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664990930241"
+    }
+  },
+  "__v": 0,
+  "oldprice": "4.50"
+},{
+  "_id": {
+    "$oid": "633dbf628b5440523e553051"
+  },
+  "name": "raw mango",
+  "description": "It says that the fruit is rich in vitamin A and C, calcium, iron and 82% of magnesium which is vital for the extraction of wastes in the body.",
+  "price": 2.09,
+  "img": "raw-mango",
+  "date": {
+    "$date": {
+      "$numberLong": "1664991074968"
+    }
+  },
+  "quantity": 190,
+  "category": "fruits",
+  "rating": 4.8,
+  "company": "Safira",
+  "indexes": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664991074969"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664991074969"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "633dbfc68b5440523e553053"
+  },
+  "name": "red cabbage",
+  "description": "Heads average between 0.5 and 4 kg (1 and 8 lb), with fast-growing, earlier-maturing varieties producing smaller heads.",
+  "price": 2.09,
+  "img": "red-cabbage",
+  "date": {
+    "$date": {
+      "$numberLong": "1664991174144"
+    }
+  },
+  "quantity": 102,
+  "category": "salads",
+  "rating": 4.2,
+  "company": "Safira",
+  "indexes": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664991174145"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664991174145"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "633dc02c8b5440523e553055"
+  },
+  "name": "red delicious apple",
+  "description": "Red Delicious apples are medium-sized and have a conical shape. They are broadly round at the top and taper at the base. The thick skin turns bright red well before the fruits are fully ripe, which can lead to early harvests. As they mature, the skin becomes a darker red with white lenticels visibly dotting the surface.",
+  "price": 1.25,
+  "img": "red-delicious-apple",
+  "date": {
+    "$date": {
+      "$numberLong": "1664991276664"
+    }
+  },
+  "quantity": 251,
+  "category": "fruits",
+  "rating": 4.6,
+  "company": "China",
+  "indexes": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664991276665"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664991276665"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "633dc0658b5440523e553057"
+  },
+  "name": "red onion",
+  "description": "Sweet and mild enough to be eaten raw, both the exterior skin and the flesh of red onions are a deep magenta color, which makes them particularly good additions to salads or anywhere else a splash of color will enhance the appearance of the dish.",
+  "price": 0.99,
+  "img": "red-onion",
+  "date": {
+    "$date": {
+      "$numberLong": "1664991333810"
+    }
+  },
+  "quantity": 126,
+  "category": "vegetables",
+  "rating": 4.1,
+  "company": "China",
+  "indexes": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664991333811"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664991333811"
+    }
+  },
+  "__v": 0,
+  "oldprice": "1.09"
+},{
+  "_id": {
+    "$oid": "633dc09e8b5440523e553059"
+  },
+  "name": "roma tomato",
+  "description": "Roma tomatoes are egg- or pear-shaped and red when fully ripe. They have few seeds and are a good canning and sauce tomato.",
+  "price": 1.4,
+  "img": "roma-tomato",
+  "date": {
+    "$date": {
+      "$numberLong": "1664991390931"
+    }
+  },
+  "quantity": 407,
+  "category": "vegetables",
+  "rating": 4.9,
+  "company": "Safira",
+  "indexes": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664991390932"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664991390932"
+    }
+  },
+  "__v": 0,
+  "oldprice": "1.55"
+},{
+  "_id": {
+    "$oid": "633dc0ec8b5440523e55305b"
+  },
+  "name": "san marzano tomato",
+  "description": "Compared to the Roma tomato, San Marzano tomatoes are thinner and more pointed. The flesh is much thicker with fewer seeds, and the taste is stronger, sweeter, and less acidic.",
+  "price": 1.75,
+  "img": "san-marzano-tomato",
+  "date": {
+    "$date": {
+      "$numberLong": "1664991468999"
+    }
+  },
+  "quantity": 127,
+  "category": "vegetables",
+  "rating": 4.8,
+  "company": "Safira",
+  "indexes": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664991469000"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664991469000"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "633dc1558b5440523e55305d"
+  },
+  "name": "savoy cabbage",
+  "description": "Savoy cabbage is a winter vegetable and one of several cabbage varieties. It has crinkled, emerald green leaves. The leaves are crunchy and tender.",
+  "price": 1.55,
+  "img": "savoy-cabbage",
+  "date": {
+    "$date": {
+      "$numberLong": "1664991573169"
+    }
+  },
+  "quantity": 88,
+  "category": "salads",
+  "rating": 4.1,
+  "company": "China",
+  "indexes": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664991573171"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664991573171"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "633dc2558b5440523e553075"
+  },
+  "name": "snap pea",
+  "description": "Snap peas, like all other peas, are pod fruits. An edible-podded pea is similar to a garden, or English, pea, but the pod is less fibrous, and is edible when young. Pods of the edible-podded pea, including snap peas, do not have a membrane and do not open when ripe.",
+  "price": 0.65,
+  "img": "snap-pea",
+  "date": {
+    "$date": {
+      "$numberLong": "1664991829978"
+    }
+  },
+  "quantity": 431,
+  "category": "vegetables",
+  "rating": 4.6,
+  "company": "Safira",
+  "indexes": "mostview",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664991829979"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664991829979"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "633dc2a58b5440523e553077"
+  },
+  "name": "snow pea",
+  "description": "The snow pea is an edible-pod pea with flat pods and thin pod walls. It is eaten whole, with both the seeds and the pod, while still unripe.",
+  "price": 0.7,
+  "img": "snow-pea",
+  "date": {
+    "$date": {
+      "$numberLong": "1664991909785"
+    }
+  },
+  "quantity": 125,
+  "category": "vegetables",
+  "rating": 4.5,
+  "company": "Safira",
+  "indexes": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664991909786"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664991909786"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "633dc3148b5440523e553079"
+  },
+  "name": "sweet onion",
+  "description": "Larger and slightly flatter than yellow onions, with lighter colored, less opaque skin, sweet onions contain extra sugar, making them good for caramelizing. Their larger size and sweeter flavor make them ideal for making onion rings.",
+  "price": 1.25,
+  "img": "sweet-onion",
+  "date": {
+    "$date": {
+      "$numberLong": "1664992020211"
+    }
+  },
+  "quantity": 167,
+  "category": "vegetables",
+  "rating": 4.3,
+  "company": "Mikotesa Farm",
+  "indexes": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664992020213"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664992020213"
+    }
+  },
+  "__v": 0,
+  "oldprice": "1.45"
+},{
+  "_id": {
+    "$oid": "633dc3678b5440523e55307b"
+  },
+  "name": "yellow onion",
+  "description": "Its heavy brown parchment skin surrounds ivory white flesh with a strong, sulphury, pungent flavor and aroma. If a recipe says onion without specifying what type, it's assumed to be a yellow onion.",
+  "price": 1.15,
+  "img": "yellow-onion",
+  "date": {
+    "$date": {
+      "$numberLong": "1664992103717"
+    }
+  },
+  "quantity": 126,
+  "category": "vegetables",
+  "rating": 4.6,
+  "company": "Safira",
+  "indexes": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664992103718"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664992103718"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "633e2c90c5634863463906b0"
+  },
+  "name": "yellow passion fruit",
+  "description": "Its pulp is gelatinous in texture with a sweet-tart flavor. It is good eaten fresh or incorporated with your recipes when cooking. The pulp with seeds can be used directly on fruit desserts like fruit salads or cocktails. You can even use this golden passion fruit as toppings on yogurt and ice creams.",
+  "price": 3.99,
+  "img": "yellow-passion-fruit",
+  "date": {
+    "$date": {
+      "$numberLong": "1665019024911"
+    }
+  },
+  "quantity": 125,
+  "category": "fruits",
+  "rating": 4.7,
+  "company": "Safira",
+  "indexes": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665019024915"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665019024915"
+    }
+  },
+  "__v": 0,
+  "oldprice": "4.50"
+}]

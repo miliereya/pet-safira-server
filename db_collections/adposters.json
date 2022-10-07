@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "6318c6988b0edac19d5e8872"
+  },
+  "title": "Sunday Sale",
+  "text": "Buy garlic with 45% off",
+  "img": "poster1",
+  "link": "https://github.com/miliereya"
+},{
+  "_id": {
+    "$oid": "6318c7118b0edac19d5e8874"
+  },
+  "title": "New Partner",
+  "text": "Introduce \"Jack-o-Farm\"!",
+  "img": "poster2",
+  "link": "https://github.com/miliereya"
+},{
+  "_id": {
+    "$oid": "631a775e7fa5e10ace28b976"
+  },
+  "title": "Fresh Tomatoes",
+  "text": "Natural farm products",
+  "img": "poster3",
+  "link": "https://github.com/miliereya",
+  "__v": 0
+}]

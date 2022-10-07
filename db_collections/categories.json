@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "6316d82366f7cc2af358e3ee"
+  },
+  "name": "vegetables",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1662441507669"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1662441507669"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6316d82a66f7cc2af358e3f0"
+  },
+  "name": "fruits",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1662441514742"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1662441514742"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6316d83d66f7cc2af358e3f2"
+  },
+  "name": "salads",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1662441533929"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1662441533929"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6316d86666f7cc2af358e3f4"
+  },
+  "name": "frozen",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1662441574278"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1662441574278"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "633afb84052eca0a556a822b"
+  },
+  "name": "cereals",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664809860184"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664809860184"
+    }
+  },
+  "__v": 0
+}]
