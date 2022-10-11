@@ -1,8 +1,13 @@
 const CategoryModel = require('../models/category.model')
+const CategoryDto = require('../dtos/category.dto')
 
 class CategoryService {
     async getCategories(){
-        const categoryData = await CategoryModel.find()
+        const categories = await CategoryModel.find()
+        const categoryData = []
+        for(let i = 0; i < categories.length; i++){
+            categoryData.push(new CategoryDto(categories[i]))
+        }
         return categoryData
     }
     

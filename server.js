@@ -28,7 +28,6 @@ const uri = process.env.ATLAS_URI
 
 const start = async () => {
     try {
-        console.log('123123123123')
         await mongoose.connect(uri, { 
             useNewUrlParser: true,
             useUnifiedTopology: true
