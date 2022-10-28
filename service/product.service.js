@@ -1,5 +1,7 @@
 const ProductModel = require('../models/product.model')
 
+//A lot of things to change...
+
 class ProductService {
     async getProduct(id, index){
         if(index !== '') {
@@ -31,10 +33,10 @@ class ProductService {
                 sortParams.price = order
                 break;
         }
-
         if (name !== '') {
+            name = new RegExp(`${name}`)
             queries = {
-                $text: {$search: `/${name}/`}
+                name: {$regex: name}
             }
         }
 
